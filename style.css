@@ -80,10 +80,10 @@ p{
  font-weight: 700;
  color: rgb(255, 255, 255);
 }
-#add{
+.modal-btn{
     width: 90px;
     height: 30px;
-    margin-left: 145px;
+    margin-left: 40px;
     margin-top: 50px;
     background-color: #00ff1fa8;
     font-family: math;
@@ -98,5 +98,8 @@ p{
    cursor: pointer;
    outline: none;
 
+}
+.bg-red{
+    background-color: red !important;
 }
 
